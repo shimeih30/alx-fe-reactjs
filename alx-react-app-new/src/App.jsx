@@ -4,6 +4,8 @@ import Footer from './components/Footer';
 import UserProfile from './components/UserProfile';
 import './App.css';
 
+["Counter"]
+
 function App() {
   return (
     <div style={{ 
